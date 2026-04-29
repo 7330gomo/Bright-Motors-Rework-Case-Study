@@ -19,10 +19,10 @@ This project focuses on performing an end-to-end Exploratory Data Analysis (EDA)
 6.Prepared and delivered a comprehensive project presentation summarizing findings and insights
 
 ## Tools used
-SQL Coding: Databricks 
-Data Visualization:  Microsoft Excel 
-Presentation / Reporting: Microsoft PowerPoint 
-Project Planning:  Miro 
+- SQL Coding: Databricks 
+- Data Visualization:  Microsoft Excel 
+- Presentation / Reporting: Microsoft PowerPoint 
+- Project Planning:  Miro 
 
 ---
 
@@ -122,7 +122,7 @@ The analysis explores key business and market trends, including:
 
 Overall, the business shows strong sales performance but relies heavily on specific segments, creating opportunities for diversification and improved profitability.
 
-
+---
 
 ## 6.  Recommendations
 
@@ -139,4 +139,4 @@ Overall, the business shows strong sales performance but relies heavily on speci
 ##  Overall Goal
 To transition from a volume-driven sales approach to a **data-driven, profit-optimized strategy** that improves revenue stability and long-term business growth.
 
----
+
