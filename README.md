@@ -24,16 +24,20 @@ Data Visualization:  Microsoft Excel
 Presentation / Reporting: Microsoft PowerPoint 
 Project Planning:  Miro 
 
+---
+
 ## 1. Data Flowchart
--Capture car sales data in OLTP system
--Data Engineers/ETL Tools extract data from OLTP system
--Data Engineers/ETL Tools Transform data (clean, remove duplicates, fix missing values, format data)
+- Capture car sales data in OLTP system
+- Data Engineers/ETL Tools extract data from OLTP system
+- Data Engineers/ETL Tools Transform data (clean, remove duplicates, fix missing values, format data)
 - Data Engineers/ETL Tools check data quality
--If not clean → go back to Transform
+- If not clean → go back to Transform
 - Data Engineers/ETL Tools Load clean data into data warehouse (OLAP)
 - Data Analysts perform data analysis using SQL
 - Data Analysts create visualisations using Excel or Power BI
 - Data Analysts present insights using PowerPoint
+
+---
   
 ## 1.  Exploratory Data Analysis (EDA)
 
